@@ -1,0 +1,1 @@
+Upload a file in HDFS without using command.
